@@ -1,2 +1,3 @@
-# kanesbetas.github.io
-This a collection of kanes tweak projects.
+./kane.sh commitMessageHere
+
+Cydia repo: https://kanesbetas.github.io
