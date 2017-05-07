@@ -1,5 +1,4 @@
 rm -r Packages*
-
 dpkg-scanpackages -m ./debs /dev/null > Packages
 bzip2 -fks Packages
 
