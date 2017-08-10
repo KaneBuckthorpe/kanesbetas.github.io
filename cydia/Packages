@@ -1,0 +1,14 @@
+Package: com.kanesbetas.microplayer
+Version: 0.0.1-140+debug
+Section: Tweaks
+Maintainer: IndieDev & AntiqueDev
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.kanesbetas.microplayer_0.0.1-140+debug_iphoneos-arm.deb
+Size: 38628
+Installed-Size: 240
+MD5sum: 32b1ee6b3c2d4ad52db1a33e4d72beb6
+Description: An awesome MobileSubstrate tweak!
+Name: MicroPlayer
+Author: IndieDev & AntiqueDev
+
